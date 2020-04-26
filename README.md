@@ -1,2 +1,0 @@
-# sandboxhotel
-Created with CodeSandbox
